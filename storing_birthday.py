@@ -1,5 +1,4 @@
-# A program to store brithday dates inside five different variable
-
+# A program to store birthday dates inside five different variables
 
 birthday_1="2015-05-22"
 birthday_2="2017-09-15"
