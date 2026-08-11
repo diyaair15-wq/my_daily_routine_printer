@@ -10,7 +10,7 @@ def palind(r):
 
 
 
-r = (1,2,3,3,2,1)
+r = (10,11,21,22)
 
 if palind(r):
     print("The tuple is flip flop")
