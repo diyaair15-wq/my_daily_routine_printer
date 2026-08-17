@@ -1,0 +1,5 @@
+test_dict = {'a': 1, 'b': 2, 'c': 1, 'd': 3, 'e': 1}
+target_value = 1
+
+frequency = list(test_dict.values()).count(target_value)
+print(frequency)
