@@ -5,11 +5,11 @@ class employee:
         self.salary = 0.0
     def __del__(self):
         print("Destructor called, employee deleted.")
-    def create_object():
+def create_obj():
     print("making object")
-    object = employee()
+    obj = employee() 
     print("function endded")
-    return object
-print("calling create_object()function...")
-object =create_object()
+    return obj
+print("calling create object function...")
+obj =create_obj()
 print("program endded")
