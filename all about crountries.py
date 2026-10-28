@@ -15,7 +15,7 @@ class japan:
 obj_china = china()
 obj_japan = japan()
 
-for crountry in (obj_china, obj_japan):
-    crountry.capital()
-    crountry.language()
-    crountry.type()
+for country in (obj_china, obj_japan):
+    country.capital()
+    country.language()
+    country.type()
